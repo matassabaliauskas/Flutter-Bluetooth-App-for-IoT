@@ -30,10 +30,6 @@ The following are the screenshots of this mobile application in action.
 
 -----------------------------------------------------------------------
 
-<img src="https://github.com/matassabaliauskas/Flutter-Bluetooth-App-for-IoT/blob/main/App%20Screenshots/android_vertical_screen_5.jpg" width="480">
-
------------------------------------------------------------------------
-
 <img src="https://github.com/matassabaliauskas/Flutter-Bluetooth-App-for-IoT/blob/main/App%20Screenshots/android_vertical_screen_6.jpg" width="480">
 
 -----------------------------------------------------------------------
