@@ -10,10 +10,14 @@ To adapt this application to a different set of hardware, one would to create bl
 
 Syncfusion was used for this project, to graph air quality data from the sensor in real-time.
 
-The following are the screenshots of this mobile application in action.
+
+###### Image of the hardware setup: 
+
+<img src="https://github.com/matassabaliauskas/Flutter-Bluetooth-App-for-IoT/blob/main/App%20Screenshots/IMG_20220603_161640.jpg" width="480">
 
 -----------------------------------------------------------------------
 
+###### The following are the screenshots of this mobile application in action.
 <img src="https://github.com/matassabaliauskas/Flutter-Bluetooth-App-for-IoT/blob/main/App%20Screenshots/android_home_screen_0.jpg" width="480">
 
 -----------------------------------------------------------------------
