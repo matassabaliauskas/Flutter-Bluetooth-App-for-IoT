@@ -22,10 +22,6 @@ The following are the screenshots of this mobile application in action.
 
 -----------------------------------------------------------------------
 
-<img src="https://github.com/matassabaliauskas/Flutter-Bluetooth-App-for-IoT/blob/main/App%20Screenshots/android_vertical_screen_2.jpg" width="480">
-
------------------------------------------------------------------------
-
 <img src="https://github.com/matassabaliauskas/Flutter-Bluetooth-App-for-IoT/blob/main/App%20Screenshots/android_vertical_screen_3.jpg" width="480">
 
 -----------------------------------------------------------------------
@@ -42,50 +38,9 @@ The following are the screenshots of this mobile application in action.
 
 -----------------------------------------------------------------------
 
-<img src="https://github.com/matassabaliauskas/Flutter-Bluetooth-App-for-IoT/blob/main/App%20Screenshots/android_vertical_screen_7.jpg" width="480">
-
------------------------------------------------------------------------
-
 <img src="https://github.com/matassabaliauskas/Flutter-Bluetooth-App-for-IoT/blob/main/App%20Screenshots/android_vertical_screen_8.jpg" width="480">
 
 -----------------------------------------------------------------------
 
 <img src="https://github.com/matassabaliauskas/Flutter-Bluetooth-App-for-IoT/blob/main/App%20Screenshots/android_vertical_screen_9.jpg" width="480">
-
-
-
-
-
------------------------------------------------------------------------
-
-<img src="https://github.com/matassabaliauskas/Flutter-Bluetooth-App-for-IoT/blob/main/App%20Screenshots/android_horizontal_screen_1.jpg" height="480">
-
------------------------------------------------------------------------
-
-<img src="https://github.com/matassabaliauskas/Flutter-Bluetooth-App-for-IoT/blob/main/App%20Screenshots/android_horizontal_screen_2.jpg" height="480">
-
------------------------------------------------------------------------
-
-<img src="https://github.com/matassabaliauskas/Flutter-Bluetooth-App-for-IoT/blob/main/App%20Screenshots/android_horizontal_screen_3.jpg" height="480">
-
------------------------------------------------------------------------
-
-<img src="https://github.com/matassabaliauskas/Flutter-Bluetooth-App-for-IoT/blob/main/App%20Screenshots/android_horizontal_screen_4.jpg" height="480">
-
------------------------------------------------------------------------
-
-<img src="https://github.com/matassabaliauskas/Flutter-Bluetooth-App-for-IoT/blob/main/App%20Screenshots/android_horizontal_screen_5.jpg" height="480">
-
------------------------------------------------------------------------
-
-<img src="https://github.com/matassabaliauskas/Flutter-Bluetooth-App-for-IoT/blob/main/App%20Screenshots/android_horizontal_screen_6.jpg" height="480">
-
------------------------------------------------------------------------
-
-<img src="https://github.com/matassabaliauskas/Flutter-Bluetooth-App-for-IoT/blob/main/App%20Screenshots/android_horizontal_screen_7.jpg" height="480">
-
------------------------------------------------------------------------
-
-<img src="https://github.com/matassabaliauskas/Flutter-Bluetooth-App-for-IoT/blob/main/App%20Screenshots/android_horizontal_screen_8.jpg" height="480">
-
 
