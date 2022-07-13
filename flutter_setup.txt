@@ -1,0 +1,120 @@
+Installation tutorial: https://www.youtube.com/watch?v=x0uinJvhNxI&ab_channel=Academind
+
+0. Download and Setup Java:
+
+	a) https://www.youtube.com/watch?v=RBuZHg6eyIs&ab_channel=thecoderworld
+
+	b) https://www.oracle.com/sg/java/technologies/javase/jdk11-archive-downloads.html
+
+	c) Download and install using .exe file
+
+	d) Edit path variables as instructed in the video 
+	(JAVA_HOME = C:\Program Files\Java\jdk-11.0.14)
+	(Path = C:\Program Files\Java\jdk-11.0.14\bin)
+
+	e) This will prevent Flutter Blue Plus security/permission errors
+
+
+1. Download and setup Android Studio
+	a) https://developer.android.com/studio
+
+	b) Go to plugins and install Flutter plugin
+
+	c) Go to Android SDK Manager -> SDK Tools -> install Android SDK Command Line
+
+	d) Go to Android SDK Manager -> SDK Tools -> install Google USB Driver
+
+	e) Setup a virtual device (e.g. Nexus 5X, 1080x1920)
+
+	f) Android Studio will be used to create flutter projects and for virtual device emulator
+
+
+2. Go to Flutter website
+	a) https://docs.flutter.dev/get-started/install/windows
+
+	b) Download Flutter
+
+	c) Extract to C:/flutter
+
+	d) Edit path variables:
+	Path -> Edit -> New -> C:\flutter\bin
+	
+
+3. 	a) Run cmd: flutter doctor
+
+	b) Might need to run: flutter doctor --android-licenses (to accept all licenses and terms and agreements)
+
+4. If everything is OK: create and run the first app (on virtual device) in C:/Users/Matas/flutter
+	flutter create first_app
+	cd flutter first_app
+	flutter run
+
+5. Install Visual Studio (VS Code)
+	a) https://code.visualstudio.com/download
+
+	b) Download and install
+
+	c) Install flutter plugin
+
+	d) Install dart plugin
+
+	e) Install material icon theme plugin
+
+	f) Try running the first app
+
+	g) run flutter doctor to check for errors
+
+
+6. Install Visual Studio Community (Desktop Development with C++)
+
+	a) https://visualstudio.microsoft.com/downloads/
+
+	b) Download and Install
+
+	c) Make sure to select Desktop Development with C++
+
+	d) run flutter doctor to check for errors
+
+	e) Path setup may be required (refer to youtube video setup)
+
+
+
+
+That should be the end of android device development!
+For iOS testing, XCode is needed with MacOS
+
+
+Bluetooth Development:
+
+
+
+7. Download and setup Flutter Blue Plus
+	a) https://flutterrepos.com/lib/boskokg-flutter_blue_plus
+	https://pub.dev/packages/flutter_blue/install
+	https://github.com/boskokg/flutter_blue_plus
+
+	b) Download example folder from github (android,ios,lib,...)
+
+	c) Create a new flutter project app on Android Studio
+
+	d) Copy and paste [android, ios, lib] folders ONLY to replace the current folders in the app directory
+
+	e) To setup Flutter Blue Plus: DISABLE ANTI VIRUS!
+
+	f) Optional: enable developer mode by typing "start ms-settings:developers"
+
+	g) setup Flutter Blue Plus using VS Code / Android Studio:
+	- Run on command line: "flutter pub add flutter_blue_plus"
+AND
+	- Run on command line: "flutter pub get flutter_blue_plus"
+AND
+	- Run on command line: "flutter pub upgrade flutter_blue_plus --verbose"
+
+	- Change the minSdkVersion for Android
+	- Change the android/app/src/main/AndroidManifest.xml
+	- Change the ios/Runner/Info.plist
+
+	h) You should now be able to run the basic flutter blue plus example!
+
+
+ 
